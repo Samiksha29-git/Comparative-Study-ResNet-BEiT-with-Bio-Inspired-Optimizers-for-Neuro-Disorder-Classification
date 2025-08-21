@@ -14,10 +14,14 @@ Employ Bio-Inspired Optimizers (WOA) to refine model hyperparameters.
 Achieve higher diagnostic accuracy while minimizing training inefficiencies.
 
 Dataset
+Link: https://data.mendeley.com/datasets/d73rs38yk6/1
 
 Source: Benchmark Diagnostic MRI and Medical Imaging Dataset
+
 Size: 34,192 MRI images
+
 Classes: 40 clinically relevant categories
+
 Type: Brain, Neuro, and Spine disorder MRI scans
 
 Methodology
